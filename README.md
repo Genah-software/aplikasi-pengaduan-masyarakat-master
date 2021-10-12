@@ -1,5 +1,7 @@
 # aplikasi-pengaduan-masyarakat-master
+
 git clone https://github.com/Genah-software/aplikasi-pengaduan-masyarakat-master.git
+
 cd aplikasi-pengaduan-masyarakat
 
 composer install
